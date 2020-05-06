@@ -1,0 +1,8 @@
+﻿cl : командная строка warning D9025: переопределение "/sdl" на "/GS-"
+  main.cpp
+C:\Users\Professional\source\repos\LR10\LR10\main.cpp(100,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Professional\source\repos\LR10\LR10\main.cpp(38,24): warning C4101: first_symbol_function: неиспользованная локальная переменная
+C:\Users\Professional\source\repos\LR10\LR10\main.cpp(121,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Professional\source\repos\LR10\LR10\main.cpp(127,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Professional\source\repos\LR10\LR10\main.cpp(140,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  LR10.vcxproj -> C:\Users\Professional\source\repos\LR10\Debug\LR10.exe

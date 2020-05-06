@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Professional\source\repos\lr13\lr13\main.cpp(51,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lr13.vcxproj -> C:\Users\Professional\source\repos\lr13\Debug\lr13.exe

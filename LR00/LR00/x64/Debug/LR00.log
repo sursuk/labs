@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Professional\source\repos\LR00\LR00\Source.cpp(26,27): warning C4244:  =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Professional\source\repos\LR00\LR00\Source.cpp(43,26): warning C4244:  =: преобразование "double" в "float", возможна потеря данных
+  LR00.vcxproj -> C:\Users\Professional\source\repos\LR00\x64\Debug\LR00.exe

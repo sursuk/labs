@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Professional\source\repos\LR8\LR8\main.cpp(46,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LR8.vcxproj -> C:\Users\Professional\source\repos\LR8\Debug\LR8.exe
